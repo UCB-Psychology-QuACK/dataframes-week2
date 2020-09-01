@@ -2,6 +2,8 @@
 This repo contains starter code and any associated data for week 2. 
 * dataframes - Starter code for class demo (data = mtcars)
 * DataPractice - Problemset to complete after class demo (data = penguins)
+
+
 *Data has been adapted from R penguins and mtcars datasets. *
 ## Overview of Topics
 * Intro to github & github classroom 

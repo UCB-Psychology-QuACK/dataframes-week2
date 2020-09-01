@@ -37,19 +37,14 @@
 # 6) Now, output a vector where each number is twice its value in x. There are two ways to do this
 
 
+### Lets make it a little more challenging ###
 
 # 7) Now, create a new vector, y, by adding a number to each item in x such that the new vector has a length of 10, and each item equals 10. (I.e., y will equal c(10, 10, 10, ..., 10))
 
 
 
-### Lets make it a little more challenging ###
+# 8) Create the vector [2.1, 4.1, 6.1, 8.1] in two ways, using c(), seq() with a by argument
 
-# 8) Create the vector [2.1, 4.1, 6.1, 8.1] in three ways, using c(), seq() with a by argument, and seq() with a length.out argument.
-
-
-
-
-# Notice that the second opton still works if you don't add by=, but the third option doesn't work if you don't put length.out=!
 
 
 
